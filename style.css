@@ -1,3 +1,7 @@
-h1 {
-  color: red;
+.special {
+  border: 3px dotted darkslategray;
+}
+
+h1.special {
+  background-color: fuchsia;
 }
