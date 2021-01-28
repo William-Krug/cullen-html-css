@@ -4,4 +4,10 @@
 
 h1.special {
   background-color: fuchsia;
+  border: 1px solid blue;
+}
+
+td.specail,
+li:hover {
+  background-color: fuchsia;
 }
